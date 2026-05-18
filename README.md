@@ -35,6 +35,3 @@ Este repositório foi criado como parte da **Aula 10.1 — GitHub na Prática**,
 
 ---
 
-## 💻 Comandos de Referência Rápida
-
-```bash
